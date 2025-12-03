@@ -46,13 +46,13 @@ const About = () => {
               </h3>
               
               <p className="text-lg text-muted-foreground leading-relaxed">
-                I'm a dedicated LinkedIn certified Junior Software Developer and Data Scientist and Data Analyst with over 
+                LinkedIn certified Junior Software Developer and Data Scientist with over 
                 five years of experience in managing databases, ensuring data quality, 
-                and developing comprehensive reports and analyses.
+                developing comprehensive reports and analyses.
               </p>
               
               <p className="text-lg text-muted-foreground leading-relaxed">
-                 My expertise spans AI Powered Softwares, SQL, Python, SPSS, and data integrity practices. I'm adept at 
+                 My expertise spans AI Powered Softwares, SQL, Python, SPSS, and Data integrity practices. I'm adept at 
                 troubleshooting data environments, supporting data warehouse operations, and developing 
                 software solutions that deliver tangible business value.
               </p>
