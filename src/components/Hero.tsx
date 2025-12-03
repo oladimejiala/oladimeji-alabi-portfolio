@@ -24,8 +24,9 @@ const Hero = () => {
             </h1>
             
             <p className="text-xl md:text-2xl mb-8 text-white/90 max-w-3xl mx-auto leading-relaxed">
-              Solving everyday problems using Software Development, Data Science, 
-              Machine Learning, and Artificial Intelligence. Based in Benin Republic.
+              Solving everyday problems through Software development, Data Science, 
+              and Artificial Intelligence for health & 
+              business impact. Based in Benin Republic.
             </p>
             
             <div className="flex flex-col sm:flex-row items-center justify-center gap-4 mb-12">

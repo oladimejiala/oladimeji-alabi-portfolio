@@ -46,8 +46,9 @@ const Footer = () => {
           <div className="space-y-4">
             <h3 className="text-2xl font-bold">Oladimeji Alabi</h3>
             <p className="text-white/80 max-w-sm">
-              Data Scientist & ML Engineer passionate about solving real-world problems 
-              through innovative technology solutions.
+              Junior Software Developer With Data Science Skills,
+              Building intelligent, data-driven web tools for health & 
+              business impact
             </p>
             <div className="flex space-x-3">
               {socialLinks.map((social, index) => (
