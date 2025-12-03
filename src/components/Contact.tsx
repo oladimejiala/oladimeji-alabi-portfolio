@@ -83,7 +83,7 @@ const Contact = () => {
                   Let's Start a Conversation
                 </h3>
                 <p className="text-lg text-muted-foreground mb-8">
-                  Whether you're looking for a data scientist, need machine learning solutions, 
+                  Whether you're looking for a Software developer with data science skills, 
                   or want to discuss research collaboration, I'm here to help bring your ideas to life.
                 </p>
               </div>
