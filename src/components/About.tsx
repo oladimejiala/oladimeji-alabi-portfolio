@@ -33,8 +33,8 @@ const About = () => {
           <div className="text-center mb-16 fade-in">
             <h2 className="section-header">About Me</h2>
             <p className="section-subheader">
-                 Dedicated professional with expertise in data science, software development, 
-                and machine learning, focused on solving real-world problems through technology.
+                 Dedicated professional with expertise in software development and data science, software development, 
+                focused on solving real-world problems through technology.
             </p>
           </div>
 
@@ -46,13 +46,13 @@ const About = () => {
               </h3>
               
               <p className="text-lg text-muted-foreground leading-relaxed">
-                I'm a dedicated AWS and LinkedIn certified Data Scientist and Data Analyst with over 
-                five years of experience in managing large-scale databases, ensuring data quality, 
+                I'm a dedicated LinkedIn certified Junior Software Developer and Data Scientist and Data Analyst with over 
+                five years of experience in managing databases, ensuring data quality, 
                 and developing comprehensive reports and analyses.
               </p>
               
               <p className="text-lg text-muted-foreground leading-relaxed">
-                 My expertise spans SQL, Python, SPSS, and data integrity practices. I'm adept at 
+                 My expertise spans AI Powered Softwares, SQL, Python, SPSS, and data integrity practices. I'm adept at 
                 troubleshooting data environments, supporting data warehouse operations, and developing 
                 software solutions that deliver tangible business value.
               </p>
